@@ -7,7 +7,7 @@ import * as React from "react";
 import FoodCard from "./shimmerUi/FoodCard";
 import Button from "./reusableUi/Button";
 import InputBox from "./reusableUi/InputBox";
-// import axios from "axios";
+import axios from "axios";
 import { axiosInstance } from "../utility/axios";
 
 const Body = () => {
