@@ -1,0 +1,111 @@
+{
+    "restaurantData": {
+        "info": {
+            "id": "534235",
+            "name": "Cheesecake & Co.",
+            "cloudinaryImageId": "b318c0b4bc2169550145ace1d6e791a2",
+            "locality": "Koramangala",
+            "areaName": "Koramangala",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Bakery"
+            ],
+            "avgRating": 4.6,
+            "parentId": "387417",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "3.0K+",
+            "promoted": true,
+            "adTrackingId": "cid=24451707~p=6~adgrpid=24451707#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=534235~eid=0c065fda-188d-4b28-84df-08758953ff2e~srvts=1737972873120~collid=147970",
+            "sla": {
+                "deliveryTime": 39,
+                "lastMileTravel": 6.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "35-40 mins",
+                "lastMileTravelString": "6.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-01-28 00:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "newg.png",
+                        "description": "Gourmet"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {
+                "header": "40% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use SWIGGYIT",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "40% off up to ₹80 | Use code SWIGGYIT",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ]
+            },
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "3.3",
+                    "ratingCount": "115"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-da9b74f9-cea4-4612-bcda-28399f9de4f2"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/cheesecake-and-co-koramangala-rest534235",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_byName"
+    }
+}

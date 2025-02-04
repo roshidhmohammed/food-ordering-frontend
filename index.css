@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cart-badge {
+  @apply relative bottom-3 text-lg bg-red-600 rounded-full text-gray-200 px-2
+}
+
+.landing-page-heading {
+  @apply bg-gray-100 rounded-lg  flex justify-between flex-col pt-5   hover:cursor-pointer hover:scale-110 transition-all duration-500
+}
+
+.shimmer-ui-text-1 {
+  @apply h-2 w-32  rounded bg-gray-200
+}
+
+.shimmer-ui-text-2 {
+  @apply rounded bg-gray-200
+}
+
+.shimmer-ui-text-3 {
+  @apply h-2 rounded w-60 bg-gray-200
+}
+
+.shimmer-ui-text-4 {
+  @apply h-2 w-32 rounded bg-gray-200
+}
+
+.shimmer-ui-text-5 {
+  @apply h-2 rounded w-60 bg-gray-200
+}
+
+.component-heading {
+  @apply font-bold text-3xl antialiased tracking-wide
+}
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+  background-color: #000000;
+  border-radius: 1px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #ef5502;
+    border-radius: 1px;
+    height: 200px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #ef5502;
+  }
+
+
+
+
