@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import GroceriesCard from "./shimmerUi/GroceriesCard";
 
 const Groceries = () => {
-  const [groceriesData, setGroceriesData] = useState();
+  const [groceriesData, setGroceriesData] = useState([]);
 
   useEffect(() => {
     fetchData();
