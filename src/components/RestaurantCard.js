@@ -1,5 +1,5 @@
 import { FaStar } from "react-icons/fa";
-import { CDN_URL } from "../utils/constants";
+// import { CDN_URL } from "../utils/constants";
 // import { CDN_URL } from "../utils/constants";
 import React from "react";
 
