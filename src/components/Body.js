@@ -24,7 +24,7 @@ const Body = () => {
 
   const fetchData = async () => {
     // const data = await fetch("http://localhost:8001/api/restaurant/get-all");
-    const data = await axios.get(`${process.env.REACT_APP_BACKEND_URL}restaurant/get-all`);
+    const data = await fetch(`${process.env.REACT_APP_BACKEND_URL}restaurant/get-all`);
 
     const json = await data?.json();
     setResList(
